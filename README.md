@@ -28,5 +28,5 @@ The code will generate visualizations and analysis of the data, including bar ch
 This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
-Kevin Cubillo
+Kevin Cubillo-
 Brandon Retana
